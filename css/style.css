@@ -332,6 +332,18 @@ h4:hover{
     /* object-fit: cover; */
     border-radius: 10px;
 }
+.h4-1:hover{
+    text-decoration: underline;
+    color: rgb(1, 1, 163);
+}
+.h4-2:hover{
+    text-decoration: underline;
+    color: purple;
+}
+.h4-3:hover{
+    text-decoration: underline;
+    color: red;
+}
 /* -----aside----- */
 .aside{
     height: 150vh;
