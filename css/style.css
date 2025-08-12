@@ -161,8 +161,14 @@ h4:hover{
     font-size: 20px;
     color: rgb(24, 147, 255);
 }
+.bx-search:hover{
+    background-color: rgb(24, 147, 255);
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
 .top-main-info{
-    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    /* box-shadow: 0 4px 15px rgba(0,0,0,0.05); */
     margin: 15px;
     border-radius: 10px;
     background-color: antiquewhite;
